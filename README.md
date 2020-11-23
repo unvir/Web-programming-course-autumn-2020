@@ -31,5 +31,6 @@ https://forms.yandex.ru/u/5f7a37555869a58e8fe46a9a/
 | POST      | { "name": "me" } | 200 Ok | ok |
 | PATCH     | { "value": "1" } | 200 Ok | ok |
 | GET       | | 200 Ok | { "name": "me", "value": "1" } |
+
 Отчеты сюда - https://forms.yandex.ru/u/5fbbca0d3af4d2c4627aad6f/
 ОБЯЗАТЕЛЬНО: Предоставить в Readme.md скриншоты работоспособности
